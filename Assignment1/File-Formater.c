@@ -35,7 +35,7 @@
 
 */
 
-/* Formating and typesetting program
+/* Formating and typesetting program takes a file from stdin
  * Removes whitespaces and uniformly prints text 
  * within specified margins
  */

@@ -1,5 +1,0 @@
-4 17 2
-pub
-A
-Dijkstra
-comp20007
